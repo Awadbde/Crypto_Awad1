@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "490433917190",
+    "firebase_url": "https://crypto-awad-default-rtdb.firebaseio.com",
+    "project_id": "crypto-awad",
+    "storage_bucket": "crypto-awad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490433917190:android:8d3dfed9597037c109ee87",
+        "android_client_info": {
+          "package_name": "com.example.crypto_awad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLxU1SDQWnzrlCmTxB5JjGSIKAKIxj8RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
